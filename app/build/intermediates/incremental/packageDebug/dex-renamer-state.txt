@@ -1,0 +1,7 @@
+#Fri Feb 03 18:51:50 CST 2017
+base.0=/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9933f01a5bcefeec12db2fb1e1da9986ffc55003
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6df97b2bd5f57be3d24dfdb3632900c1b8ead847/classes.dex
+base.1=/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6df97b2bd5f57be3d24dfdb3632900c1b8ead847
+file.0=/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9933f01a5bcefeec12db2fb1e1da9986ffc55003/classes.dex

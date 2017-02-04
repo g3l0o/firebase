@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.0_0527abe72448f1b0f9d80123402e21889863cdd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="34bd46b077547dc4e75a6741ca01a75c8dd30e29">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9933f01a5bcefeec12db2fb1e1da9986ffc55003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.1_e4682a825eec2af7e4868fc9d6d0f45ee78c5a2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_7eea6ab21e512a9eb1d529dbb04e3bf8dbaeda0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_98e06852d980826aff75a46af951c39e3eff580c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.0_963d67de1caa1f80170b00b51bf9cb341bc703a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_e933f7e93b7bdcaf97a8e55a8529b2453b8662d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b9b8fa580ccadf7921ab95730ab83e7f4705d691/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_795ce96c546378e7ebaa01bc7fa3c20493761188/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_31768cb91aa5d2581b82182b668c2ca5156d3f2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_602fc097df3c7d66f2783c334cc5b4b5229b3486/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_7b6016f743f290a2b9940a1af7a3e79eeaef417a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_063e4e79f07a311f288b03cebfc3ce58cac0fc18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_d9fe479a332a7434f59562b7d46b46cf9f5fc1f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_0a2c7b4afeeef0df6b15f3c2e4076a8a93fc8da7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_e40a290fb885ed41f30b5bbf4ea92c943f3fdf4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_2a8eb1ad0a68cc645eb215c0b31fb6000dcf2873/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_45c2c454661778e16fcdbc1df2f804e57c05e78f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_de3072a9f6c3ef0f74b288f109afd047d5af7843/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_b24264e8780b4c5a76c28c3112e85a198b81209b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_2c1a76f369ae9bb2987d4c437a91f2fbb0c6bc81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.0_8113562eb6e937f7fce505b75d6ff33bff4ed575/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_f456b17f317eae3b48cb17bd3abe12417e85662b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_0a42c47a7eea96b0609cf9d6f36efd52b29a6389/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_723869575cecd72ea89112b9c00b8ef595f564e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_e405a0aa5c84eb750126114ab94df225e0a80ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_b578715ca782b88c8f0cb3abcd5c60d76b4ab97f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_48e8cfef028d0fd6ae66fb7cfd9ff90df8c419f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.1_8f743cbde13d778146664d20561f04d2d789c008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_6b77b91e216e92607e6a89bfacfd3c06954da8f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.14.1_67c8bc3b5fbbf5e7f1d58fd24454b760e236b010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.0_f01c88355dce0581031d7d4821e55ba88ff01d87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_e22dcaed543f075ea62dc6165eed4e442f981f79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.1_74c27a0c0604cc5448ee374f7f30988b3407458e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-auth-0.6.0_23c8903d208160ff9b1c04980acc1ee52d84dee4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_73f8db716aaab96fa725816b0be68280bc9a43db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4d6ce95efedff280761bc704ee26d49ec81779e9">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6df97b2bd5f57be3d24dfdb3632900c1b8ead847/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_802ae7fd06686dbbcb9639c1eada8d9de7e18ff2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.1_83c2f364254524beed93caa0b21ff89b97c23666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b9d092d109cf103ed607a629b0af8a4515b73f91/classes.dex" />
+    </item>
+
+</items>
