@@ -5,32 +5,32 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="16028545119228"
+    timestamp="43936144474264"
     token="6465417381367211131"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1385" />
+        duration="1753" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="528" />
+        duration="172" />
     <task
         name="verifier"
-        duration="39" />
+        duration="24" />
 
     <artifact
         location="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="19569322638654"
+        timestamp="43936144474264"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/home/roger/Downloads/and-nd-firebase-1.00-starting-point/app/build/outputs/apk/app-debug.apk"
+            location="/home/roger/AndroidStudioProjects/and-nd-firebase-1.00-starting-point/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 
